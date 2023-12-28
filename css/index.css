@@ -199,7 +199,7 @@ body{
     grid-area: sbt;
     font-weight: 900;
     color: var(--font_primary);
-    animation: colores 8s infinite linear alternate;*/
+    animation: colores 8s infinite linear alternate;
 }
 @keyframes colores {
     0%{color: #410fca;}
