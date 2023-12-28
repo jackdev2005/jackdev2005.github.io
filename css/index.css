@@ -199,9 +199,9 @@ body{
     grid-area: sbt;
     font-weight: 900;
     color: var(--font_primary);
-    /*animation: colores 8s infinite linear alternate;*/
+    animation: colores 8s infinite linear alternate;*/
 }
-/*@keyframes colores {
+@keyframes colores {
     0%{color: #410fca;}
     15%{color: #71299b;}
     30%{color: #a12482;}
@@ -209,7 +209,7 @@ body{
     60%{color: #df5f2d;}
     75%{color: #e9d900;}
     90%{color: #55c951;}
-}*/
+}
 .principal__redes{
     grid-area: redes;
     width: 250px;
